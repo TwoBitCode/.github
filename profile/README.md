@@ -1,6 +1,5 @@
 # Game Design and Development Course ✨🎮
 
-## Course Overview
 This repository supports the course **"Game Design and Development"** offered by **Ariel University, School of Computer Science** during the first semester of the academic year 5785 (2024-2025). 
 ---
 
